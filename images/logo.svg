@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,9 +39,9 @@
      inkscape:window-height="1001"
      id="namedview11"
      showgrid="false"
-     inkscape:zoom="5.9473684"
-     inkscape:cx="104.5"
-     inkscape:cy="13.536593"
+     inkscape:zoom="4.2054245"
+     inkscape:cx="58.357285"
+     inkscape:cy="-5.9515025"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -85,15 +85,15 @@
      style="font-size:22px;stroke-width:0.00025476"
      transform="scale(1.0141662,0.98603168)"><tspan
        sodipodi:role="line"
-       id="tspan19"
-       x="67.896339"
-       y="18.634447"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.00025476">Ranjan's</tspan><tspan
-       sodipodi:role="line"
        id="tspan21"
        x="67.896339"
+       y="18.634447"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.00025476">Code with</tspan><tspan
+       sodipodi:role="line"
+       x="67.896339"
        y="47.001698"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.00025476">Repository</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.00025476"
+       id="tspan24">Ranjan</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:40px;line-height:0;font-family:sans-serif"
